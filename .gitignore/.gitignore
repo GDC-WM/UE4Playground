@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# blender backup files, see: https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/
+*.blend1
